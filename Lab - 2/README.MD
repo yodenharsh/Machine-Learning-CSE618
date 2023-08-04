@@ -18,3 +18,4 @@
 
 - Learnt which kind of performance measures to use on linear regression and train test split combination
 - Learnt how to obtain a Linear Regression model based on multiple independent variables
+- Still unsure as to how to 'tune' the model to increase performancce
