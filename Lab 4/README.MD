@@ -6,7 +6,9 @@
 
 - Design a simple perceptron without inbuilt functions
 - Use rand function to generate synthetic dataset
-- Use kaggle dataset and implement ANN
+- Implement an ANN using
+  - Synthesized dataset
+  - Kaggle dataset
 
 ## Dataset source
 
